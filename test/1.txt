@@ -1,0 +1,3 @@
+why types?
+  helps the computer to decode/interpret raw data
+  supports ABSTRACTION

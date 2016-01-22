@@ -1,0 +1,13 @@
+"Live births, by birth weight and sex (Number)",,,,,
+,,,,,
+
+,2007,2008,2009,2010,2011,
+,number,,,,,
+Both sexes,"367,864","377,886","380,863","377,213","377,636",
+Males,"188,337","193,755","195,445","193,465","193,587",
+Females,"179,527","184,131","185,418","183,748","184,049",
+"Birth weight, less than 500 grams",336,378,289,401,376,
+Males,168,192,143,196,183,
+Females,168,186,146,205,193,
+"Birth weight, 500 to 1,499 grams","3,284","3,388","3,452","3,482","3,356",
+Males,""Note: Birth weight is the first weight of the newborn obtained immediately after birth, expressed in grams. Source: Statistics Canada, CANSIM, table 102-4509 and Catalogue no. 84F0210-X. Last modified: 2013-03-19.",,,,,,
